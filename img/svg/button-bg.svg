@@ -1,0 +1,19 @@
+<svg width="383" height="105" viewBox="0 0 383 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d)">
+<path d="M0 5C0 2.23857 2.23858 0 5 0H378C380.761 0 383 2.23858 383 5V91C383 96.5229 378.523 101 373 101H9.99999C4.47714 101 0 96.5228 0 91V5Z" fill="url(#paint0_linear)"/>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="383" height="105" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.7125 0 0 0 0 0.521752 0 0 0 0 0 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="191.5" y1="0" x2="191.5" y2="101" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FD768F" stop-opacity="0.79"/>
+<stop offset="0.669792" stop-color="#FFD563"/>
+</linearGradient>
+</defs>
+</svg>
